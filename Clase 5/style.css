@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(177, 148, 162);
+}
+p{
+    color: antiquewhite;
+}
+
+.caja{
+    background-color: rgb(150, 120, 142);
+    width: 200px ;
+    height: 200px;
+    border-radius: 20px;
+    border: 1px rgb(156, 122, 142);}
+    
