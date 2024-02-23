@@ -1,0 +1,40 @@
+.box {
+    width: 200px;
+    height: 300px;
+    background-color: rgb(94, 94, 94);
+    border-radius: 10px;
+}
+.title {
+    padding-top: 25px;
+    padding-left: 10px;
+    color: white;
+    font-size: 20px;
+    font-weight: 200px;
+
+}
+.text {
+    padding-left: 10px;
+    color: white;
+    font-size: xx-small;
+}
+.prize {
+    font-weight: 200px;
+    color: white;
+    padding-left: 10px;
+    font-size: medium;
+}
+.number {
+    font-size: medium;
+    padding-left: 10px;
+    color: gold;
+    text-shadow: 3px gold;
+}
+.box2 {
+    background-color: goldenrod;
+    width: 70px;
+    height: 20px;
+}
+.buy {
+    color: black;
+    font-size: small;
+}
